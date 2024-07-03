@@ -1,5 +1,5 @@
 # Blocknimal
-Hi Everyone, Blocknimal is an animal match puzzle game.
+Blocknimal is an animal match puzzle game.
 
 You can try on link;
 
